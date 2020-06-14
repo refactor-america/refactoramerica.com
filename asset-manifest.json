@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/refactoramerica.com/static/css/main.713ad2e0.chunk.css",
+    "main.js": "/refactoramerica.com/static/js/main.d7d1e7b3.chunk.js",
+    "main.js.map": "/refactoramerica.com/static/js/main.d7d1e7b3.chunk.js.map",
+    "runtime-main.js": "/refactoramerica.com/static/js/runtime-main.f9b25af1.js",
+    "runtime-main.js.map": "/refactoramerica.com/static/js/runtime-main.f9b25af1.js.map",
+    "static/js/2.8c358dc5.chunk.js": "/refactoramerica.com/static/js/2.8c358dc5.chunk.js",
+    "static/js/2.8c358dc5.chunk.js.map": "/refactoramerica.com/static/js/2.8c358dc5.chunk.js.map",
+    "index.html": "/refactoramerica.com/index.html",
+    "precache-manifest.a17fc701249eefb02a986bd8b0bfdf64.js": "/refactoramerica.com/precache-manifest.a17fc701249eefb02a986bd8b0bfdf64.js",
+    "service-worker.js": "/refactoramerica.com/service-worker.js",
+    "static/css/main.713ad2e0.chunk.css.map": "/refactoramerica.com/static/css/main.713ad2e0.chunk.css.map",
+    "static/js/2.8c358dc5.chunk.js.LICENSE.txt": "/refactoramerica.com/static/js/2.8c358dc5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9b25af1.js",
+    "static/js/2.8c358dc5.chunk.js",
+    "static/css/main.713ad2e0.chunk.css",
+    "static/js/main.d7d1e7b3.chunk.js"
+  ]
+}
